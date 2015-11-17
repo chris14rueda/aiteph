@@ -10,13 +10,7 @@
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES latin1 */;
 
-SET FOREIGN_KEY_CHECKS=0;
 
-CREATE DATABASE `jcorev2`
-    CHARACTER SET 'latin1'
-    COLLATE 'latin1_swedish_ci';
-
-USE `jcorev2`;
 
 #
 # Structure for the `account_classes` table : 
