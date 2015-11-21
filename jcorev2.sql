@@ -22,8 +22,7 @@ CREATE TABLE `account_classes` (
   
   
   
-  `acc_type_id` int(11) DEFAULT NULL,
-  `other_desc` varchar(500) DEFAULT NULL,
+
   `date_created` datetime DEFAULT NULL,
   `date_modified` timestamp NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
   `is_active` bit(1) DEFAULT b'1',
