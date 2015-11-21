@@ -7,6 +7,17 @@ DENIS tulis
 CREATE TABLE `account_classes` (
   `acc_class_id` int(11) NOT NULL AUTO_INCREMENT,
   `acc_class` varchar(65) DEFAULT NULL,
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   `acc_type_id` int(11) DEFAULT NULL,
   `other_desc` varchar(500) DEFAULT NULL,
   `date_created` datetime DEFAULT NULL,
@@ -324,10 +335,19 @@ COMMIT;
 # Data for the `supplier_info` table  (LIMIT 0,500)
 #
 
+
+
+
+
 INSERT INTO `supplier_info` (`supplier_id`, `supplier`, `address`, `email`, `pri_contact`, `sec_contact`, `contact_person`, `fax_no`, `website`, `tin_no`, `is_vatted`, `date_created`, `date_modified`, `is_active`, `is_delete`) VALUES 
   (28,'Paul Christian Rueda','San Jose, San Simon, Pampanga','chrisrueda14@gmail.com','na','','person','','','',1,'2015-10-24 19:53:51','2015-10-24 19:53:51',1,0),
   (29,'Christian Rueda','San Jose, San Simon, Pampanga','','091','','','','','',1,'2015-10-28 13:10:24','2015-10-28 13:10:24',1,0),
   (30,'Manny Pacquiao 1','San Jose, San Simon, Pampanga','','na','','','','','',1,'2015-11-09 16:28:48','2015-11-09 16:28:48',1,0),
+
+
+
+
+
   (31,'Floyd Mayweather','San Jose, San Simon, Pampanga','floyd@yahoo.com','na','','','','','',1,'2015-10-19 15:56:28','2015-10-27 11:43:34',1,0),
   (32,'Lucas Mathysse','San Jose, San Simon, Pampanga','mathysses@yahoo.com','na','','','','','',1,'2015-10-19 11:30:55','2015-10-27 11:43:34',1,0),
   (33,'Marcus Maidana','San Jose, San Simon, Pampanga','','na','','','','','',1,'2015-10-15 16:44:09','2015-10-27 11:43:34',1,0),
