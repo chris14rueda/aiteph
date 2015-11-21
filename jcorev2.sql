@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+IT TEAM!!!!!!
+=======
 DENIS tulis
+>>>>>>> 5957b976d4be9cbde8ac35e2166dc8474e1db12a
 
 #
 # Structure for the `account_classes` table : 
