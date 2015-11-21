@@ -9,9 +9,7 @@ DENIS tulis
 #
 
 CREATE TABLE `account_classes` (
-  `acc_class_id` int(11) NOT NULL AUTO_INCREMENT,
-  `acc_class` varchar(65) DEFAULT NULL,
-  
+
   
   
   
