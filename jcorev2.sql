@@ -20,7 +20,7 @@ CREATE TABLE `account_classes` (
   `is_locked` bit(1) DEFAULT b'0',
   PRIMARY KEY (`acc_class_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=8 DEFAULT CHARSET=latin1;
-
+BOS JUSTINE
 #
 # Structure for the `account_info` table : 
 #
