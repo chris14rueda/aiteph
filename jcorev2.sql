@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 IT TEAM!!!!!!
+=======
+DENIS tulis
+>>>>>>> 5957b976d4be9cbde8ac35e2166dc8474e1db12a
 
 #
 # Structure for the `account_classes` table : 
@@ -347,7 +351,7 @@ INSERT INTO `supplier_info` (`supplier_id`, `supplier`, `address`, `email`, `pri
   (47,'Hello 1','San Jose, San Simon, Pampanga','','na','','','','','',1,'2015-10-19 11:31:05','2015-10-27 11:43:34',1,0);
 COMMIT;
 
-
+INNER JOIN
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
