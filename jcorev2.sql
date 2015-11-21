@@ -1,15 +1,3 @@
-# SQL Manager 2010 Lite for MySQL 4.6.0.5
-# ---------------------------------------
-# Host     : localhost
-# Port     : 3306
-# Database : jcorev2
-
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES latin1 */;
-PAUL CHRISTIAN RUEDA
 
 
 #
