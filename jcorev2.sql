@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-IT TEAM!!!!!!
+IT TEAM!!!!!!PAUL CHRISTIAN RUEDA!!!!!
 =======
 DENIS tulis
 >>>>>>> 5957b976d4be9cbde8ac35e2166dc8474e1db12a
